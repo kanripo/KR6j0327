@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 廣大蓮華莊嚴曼拏羅滅一切罪陀羅尼經
+#+DATE: 2015-08-30 20:30:20.553198
+#+PROPERTY: JUAN 0
