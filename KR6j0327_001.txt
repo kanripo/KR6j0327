@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:20.361858
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:52
 #+TITLE: 廣大蓮華莊嚴曼拏羅滅一切罪陀羅尼經
 #+PROPERTY: CBETA_ID T20n1116
 #+PROPERTY: ID KR6j0327
